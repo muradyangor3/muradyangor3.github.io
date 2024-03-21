@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f11414;
+}
+
+section {
+    background-color: #66f;
+    color: rgb(181, 236, 18);
+    text-align: center;
+}
+
+section article p {
+ 
+    background-color: rgb(0, 0, 0);
+}
+section > p {
+    background-color: #66f;
+    color: black;
+}
+
+article {
+    background-color: #f11414;
+    color: darkolivegreen;
+}
+
+#news{
+    background-color: rgb(0, 8, 255);
+}
+
