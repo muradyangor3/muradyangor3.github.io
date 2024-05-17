@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(208, 255, 189);
+    margin: 0;
+}
+
+.header { 
+    text-align: center;
+    padding: 5px;
+    color: yellow;
+    background: linear-gradient(90deg, rgb(50, 50, 255,1) 0%, rgba(0,155,0,1) 50%, rgba(255,255,0,1) 100%);
+    width: 100%;
+}
+
+nav {
+display: inline-block;
+background: linear-gradient(90deg, rgb(50, 50, 255,1) 0%, rgba(0,155,0,1) 50%, rgba(255,255,0,1) 100%);
+width: 100%;
+}
+
+.navbar-item {
+   background-color: yellow;
+   font-size: 18px;
+   margin: 0 5px;
+   
+}
+.button{
+    display: flex;
+    text-decoration: none;
+
+}
+
+a{
+    text-decoration: none
+}
+
+h1{
+    font-size: 50px;
+}
+
+
