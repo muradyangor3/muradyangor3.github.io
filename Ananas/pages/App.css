@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(208, 255, 189);
+    background-color: rgb(255, 255, 255);
     margin: 0;
 }
 
@@ -20,13 +20,17 @@ width: 100%;
 .navbar-item {
    background-color: yellow;
    font-size: 18px;
-   margin: 0 5px;
-   
+   margin: 0 5px;  
 }
-.button{
+.navbar{
+    background-color: blue;
+    font-size: 18px;
+    color: yellow;
+    margin-left: 95%;
+}
+.button {
     display: flex;
     text-decoration: none;
-
 }
 
 a{
@@ -35,6 +39,27 @@ a{
 
 h1{
     font-size: 50px;
+}
+.gh{
+    margin-left: 5%;
+    font-weight: 700;
+    font-size: 34px;
+    letter-spacing: 2px;
+    margin-bottom: 24px;
+    margin-top: 32px;
+}
+.search{
+    border-radius: 9px;
+    width: 50%;
+}
+.deliver{
+    margin-left: 80%;   
+    background-color: blue;
+    color: yellow;
+    font-size: 17px;
+}
+.bh{
+    display: flex;
 }
 
 
